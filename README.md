@@ -24,4 +24,8 @@ LeetCode Problems and their Solutions
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/VizZzSaRa/LC/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/VizZzSaRa/LC/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
