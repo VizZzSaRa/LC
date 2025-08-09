@@ -6,11 +6,13 @@ LeetCode Problems and their Solutions
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/VizZzSaRa/LC/tree/master/0231-power-of-two) |
 | [3371-harshad-number](https://github.com/VizZzSaRa/LC/tree/master/3371-harshad-number) |
 | [3567-convert-date-to-binary](https://github.com/VizZzSaRa/LC/tree/master/3567-convert-date-to-binary) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/VizZzSaRa/LC/tree/master/0231-power-of-two) |
 | [0476-number-complement](https://github.com/VizZzSaRa/LC/tree/master/0476-number-complement) |
 ## String
 |  |
@@ -45,4 +47,8 @@ LeetCode Problems and their Solutions
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/VizZzSaRa/LC/tree/master/0035-search-insert-position) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/VizZzSaRa/LC/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
