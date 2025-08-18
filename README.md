@@ -26,6 +26,7 @@ LeetCode Problems and their Solutions
 | [2235-capitalize-the-title](https://github.com/VizZzSaRa/LC/tree/master/2235-capitalize-the-title) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/VizZzSaRa/LC/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3567-convert-date-to-binary](https://github.com/VizZzSaRa/LC/tree/master/3567-convert-date-to-binary) |
+| [3636-check-balanced-string](https://github.com/VizZzSaRa/LC/tree/master/3636-check-balanced-string) |
 ## Two Pointers
 |  |
 | ------- |
