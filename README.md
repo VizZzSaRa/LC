@@ -6,6 +6,7 @@ LeetCode Problems and their Solutions
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/VizZzSaRa/LC/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/VizZzSaRa/LC/tree/master/0231-power-of-two) |
 | [3371-harshad-number](https://github.com/VizZzSaRa/LC/tree/master/3371-harshad-number) |
 | [3567-convert-date-to-binary](https://github.com/VizZzSaRa/LC/tree/master/3567-convert-date-to-binary) |
@@ -92,4 +93,12 @@ LeetCode Problems and their Solutions
 |  |
 | ------- |
 | [3811-reverse-degree-of-a-string](https://github.com/VizZzSaRa/LC/tree/master/3811-reverse-degree-of-a-string) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/VizZzSaRa/LC/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/VizZzSaRa/LC/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
