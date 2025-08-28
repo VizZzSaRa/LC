@@ -33,6 +33,7 @@ LeetCode Problems and their Solutions
 | [3567-convert-date-to-binary](https://github.com/VizZzSaRa/LC/tree/master/3567-convert-date-to-binary) |
 | [3636-check-balanced-string](https://github.com/VizZzSaRa/LC/tree/master/3636-check-balanced-string) |
 | [3811-reverse-degree-of-a-string](https://github.com/VizZzSaRa/LC/tree/master/3811-reverse-degree-of-a-string) |
+| [3893-generate-tag-for-video-caption](https://github.com/VizZzSaRa/LC/tree/master/3893-generate-tag-for-video-caption) |
 ## Two Pointers
 |  |
 | ------- |
@@ -93,6 +94,7 @@ LeetCode Problems and their Solutions
 |  |
 | ------- |
 | [3811-reverse-degree-of-a-string](https://github.com/VizZzSaRa/LC/tree/master/3811-reverse-degree-of-a-string) |
+| [3893-generate-tag-for-video-caption](https://github.com/VizZzSaRa/LC/tree/master/3893-generate-tag-for-video-caption) |
 ## Dynamic Programming
 |  |
 | ------- |
