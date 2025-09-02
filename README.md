@@ -31,6 +31,7 @@ LeetCode Problems and their Solutions
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/VizZzSaRa/LC/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/VizZzSaRa/LC/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2235-capitalize-the-title](https://github.com/VizZzSaRa/LC/tree/master/2235-capitalize-the-title) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/VizZzSaRa/LC/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/VizZzSaRa/LC/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2825-minimize-string-length](https://github.com/VizZzSaRa/LC/tree/master/2825-minimize-string-length) |
 | [2881-split-strings-by-separator](https://github.com/VizZzSaRa/LC/tree/master/2881-split-strings-by-separator) |
@@ -107,6 +108,7 @@ LeetCode Problems and their Solutions
 ## Simulation
 |  |
 | ------- |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/VizZzSaRa/LC/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/VizZzSaRa/LC/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3811-reverse-degree-of-a-string](https://github.com/VizZzSaRa/LC/tree/master/3811-reverse-degree-of-a-string) |
 | [3893-generate-tag-for-video-caption](https://github.com/VizZzSaRa/LC/tree/master/3893-generate-tag-for-video-caption) |
