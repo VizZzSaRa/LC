@@ -28,6 +28,7 @@ LeetCode Problems and their Solutions
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/VizZzSaRa/LC/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/VizZzSaRa/LC/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1954-replace-all-digits-with-characters](https://github.com/VizZzSaRa/LC/tree/master/1954-replace-all-digits-with-characters) |
+| [2010-check-if-word-equals-summation-of-two-words](https://github.com/VizZzSaRa/LC/tree/master/2010-check-if-word-equals-summation-of-two-words) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/VizZzSaRa/LC/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/VizZzSaRa/LC/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2128-reverse-prefix-of-word](https://github.com/VizZzSaRa/LC/tree/master/2128-reverse-prefix-of-word) |
