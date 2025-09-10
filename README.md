@@ -11,6 +11,7 @@ LeetCode Problems and their Solutions
 | [3371-harshad-number](https://github.com/VizZzSaRa/LC/tree/master/3371-harshad-number) |
 | [3567-convert-date-to-binary](https://github.com/VizZzSaRa/LC/tree/master/3567-convert-date-to-binary) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/VizZzSaRa/LC/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3914-check-if-any-element-has-prime-frequency](https://github.com/VizZzSaRa/LC/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -84,6 +85,7 @@ LeetCode Problems and their Solutions
 | [2825-minimize-string-length](https://github.com/VizZzSaRa/LC/tree/master/2825-minimize-string-length) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/VizZzSaRa/LC/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/VizZzSaRa/LC/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3914-check-if-any-element-has-prime-frequency](https://github.com/VizZzSaRa/LC/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Array
 |  |
 | ------- |
@@ -96,6 +98,7 @@ LeetCode Problems and their Solutions
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/VizZzSaRa/LC/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2881-split-strings-by-separator](https://github.com/VizZzSaRa/LC/tree/master/2881-split-strings-by-separator) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/VizZzSaRa/LC/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
+| [3914-check-if-any-element-has-prime-frequency](https://github.com/VizZzSaRa/LC/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Binary Search
 |  |
 | ------- |
@@ -112,6 +115,7 @@ LeetCode Problems and their Solutions
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/VizZzSaRa/LC/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/VizZzSaRa/LC/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/VizZzSaRa/LC/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3914-check-if-any-element-has-prime-frequency](https://github.com/VizZzSaRa/LC/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Queue
 |  |
 | ------- |
@@ -146,6 +150,7 @@ LeetCode Problems and their Solutions
 |  |
 | ------- |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/VizZzSaRa/LC/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3914-check-if-any-element-has-prime-frequency](https://github.com/VizZzSaRa/LC/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Stack
 |  |
 | ------- |
