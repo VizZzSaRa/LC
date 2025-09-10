@@ -98,6 +98,7 @@ LeetCode Problems and their Solutions
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/VizZzSaRa/LC/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2881-split-strings-by-separator](https://github.com/VizZzSaRa/LC/tree/master/2881-split-strings-by-separator) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/VizZzSaRa/LC/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
+| [3330-modify-the-matrix](https://github.com/VizZzSaRa/LC/tree/master/3330-modify-the-matrix) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/VizZzSaRa/LC/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Binary Search
 |  |
@@ -155,4 +156,8 @@ LeetCode Problems and their Solutions
 |  |
 | ------- |
 | [2128-reverse-prefix-of-word](https://github.com/VizZzSaRa/LC/tree/master/2128-reverse-prefix-of-word) |
+## Matrix
+|  |
+| ------- |
+| [3330-modify-the-matrix](https://github.com/VizZzSaRa/LC/tree/master/3330-modify-the-matrix) |
 <!---LeetCode Topics End-->
