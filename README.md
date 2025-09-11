@@ -45,6 +45,7 @@ LeetCode Problems and their Solutions
 | [2825-minimize-string-length](https://github.com/VizZzSaRa/LC/tree/master/2825-minimize-string-length) |
 | [2881-split-strings-by-separator](https://github.com/VizZzSaRa/LC/tree/master/2881-split-strings-by-separator) |
 | [2886-faulty-keyboard](https://github.com/VizZzSaRa/LC/tree/master/2886-faulty-keyboard) |
+| [2887-sort-vowels-in-a-string](https://github.com/VizZzSaRa/LC/tree/master/2887-sort-vowels-in-a-string) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/VizZzSaRa/LC/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/VizZzSaRa/LC/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3567-convert-date-to-binary](https://github.com/VizZzSaRa/LC/tree/master/3567-convert-date-to-binary) |
@@ -129,6 +130,7 @@ LeetCode Problems and their Solutions
 | [1970-sorting-the-sentence](https://github.com/VizZzSaRa/LC/tree/master/1970-sorting-the-sentence) |
 | [2502-sort-the-people](https://github.com/VizZzSaRa/LC/tree/master/2502-sort-the-people) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/VizZzSaRa/LC/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
+| [2887-sort-vowels-in-a-string](https://github.com/VizZzSaRa/LC/tree/master/2887-sort-vowels-in-a-string) |
 | [3321-type-of-triangle](https://github.com/VizZzSaRa/LC/tree/master/3321-type-of-triangle) |
 ## Simulation
 |  |
