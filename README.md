@@ -41,6 +41,7 @@ LeetCode Problems and their Solutions
 | [2235-capitalize-the-title](https://github.com/VizZzSaRa/LC/tree/master/2235-capitalize-the-title) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/VizZzSaRa/LC/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/VizZzSaRa/LC/tree/master/2341-count-prefixes-of-a-given-string) |
+| [2365-percentage-of-letter-in-string](https://github.com/VizZzSaRa/LC/tree/master/2365-percentage-of-letter-in-string) |
 | [2502-sort-the-people](https://github.com/VizZzSaRa/LC/tree/master/2502-sort-the-people) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/VizZzSaRa/LC/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2825-minimize-string-length](https://github.com/VizZzSaRa/LC/tree/master/2825-minimize-string-length) |
