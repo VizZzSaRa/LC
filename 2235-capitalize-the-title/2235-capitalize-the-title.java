@@ -1,20 +1,21 @@
 class Solution {
     public String capitalizeTitle(String s) {
-        String ans="";
-        String arr[] = s.split("\\s+");
-        int j=0;
-        for(String i:arr){
-            if(i.length()>2){
-                arr[j]=i.substring(0,1).toUpperCase()+i.substring(1).toLowerCase();
-                j++;
+        s=s.toLowerCase();
+        String[] arr=s.split(" ");
+        StringBuilder str1=new StringBuilder();
+        for(int i=0;i<arr.length;i++){
+            StringBuilder str=new StringBuilder();
+            if(arr[i].length()<=2){
+                  str.append(arr[i]);
+            } 
+            else{
+               str.append(Character.toUpperCase(arr[i].charAt(0)));
+            str.append(arr[i].substring(1));
+            arr[i]=str.toString();
             }
-            else {
-                arr[j]=i.substring(0).toLowerCase();
-            j++;
-            }
+            str1.append(str);
+          if(i!=arr.length-1)  str1.append(" ");
         }
-        return String.join(" ",arr);
-
-        
+        return str1.toString();
     }
 }
