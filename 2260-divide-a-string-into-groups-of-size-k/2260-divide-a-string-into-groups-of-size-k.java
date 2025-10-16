@@ -1,18 +1,16 @@
 class Solution {
     public String[] divideString(String s, int k, char fill) {
-        if(s.length()%k!=0){
-            int n= s.length()%k;
-            for(int i=0;i<k-n;i++){
-                s+=fill;
-            }
-        }
-        String [] arr = new String [s.length()/k];
+        StringBuilder sb = new StringBuilder(s);
+        int a=s.length()%k;
+        if(a>0)
+        for(int i=0;i<k-a;i++) sb.append(fill);
+        int size = sb.toString().length()/k;
+        String arr [] = new String[size];
         int j=0;
-        for(int i=0;i<s.length();i+=k){
-            arr[j++]=s.substring(i,i+k);
+        for(int i=0;i<=sb.toString().length()-k;i+=k){
+            arr[j++]=sb.toString().substring(i,i+k);
         }
-
         return arr;
-         
+        
     }
 }
