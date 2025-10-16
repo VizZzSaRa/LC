@@ -99,6 +99,7 @@ LeetCode Problems and their Solutions
 | ------- |
 | [0035-search-insert-position](https://github.com/VizZzSaRa/LC/tree/master/0035-search-insert-position) |
 | [1217-relative-sort-array](https://github.com/VizZzSaRa/LC/tree/master/1217-relative-sort-array) |
+| [1293-three-consecutive-odds](https://github.com/VizZzSaRa/LC/tree/master/1293-three-consecutive-odds) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/VizZzSaRa/LC/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/VizZzSaRa/LC/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/VizZzSaRa/LC/tree/master/2341-count-prefixes-of-a-given-string) |
