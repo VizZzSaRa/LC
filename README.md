@@ -36,6 +36,7 @@ LeetCode Problems and their Solutions
 | [1970-sorting-the-sentence](https://github.com/VizZzSaRa/LC/tree/master/1970-sorting-the-sentence) |
 | [2010-check-if-word-equals-summation-of-two-words](https://github.com/VizZzSaRa/LC/tree/master/2010-check-if-word-equals-summation-of-two-words) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/VizZzSaRa/LC/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/VizZzSaRa/LC/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/VizZzSaRa/LC/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2128-reverse-prefix-of-word](https://github.com/VizZzSaRa/LC/tree/master/2128-reverse-prefix-of-word) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/VizZzSaRa/LC/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -157,6 +158,7 @@ LeetCode Problems and their Solutions
 ## Simulation
 |  |
 | ------- |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/VizZzSaRa/LC/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/VizZzSaRa/LC/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/VizZzSaRa/LC/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2886-faulty-keyboard](https://github.com/VizZzSaRa/LC/tree/master/2886-faulty-keyboard) |
