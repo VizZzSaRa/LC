@@ -39,6 +39,7 @@ LeetCode Problems and their Solutions
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/VizZzSaRa/LC/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/VizZzSaRa/LC/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2128-reverse-prefix-of-word](https://github.com/VizZzSaRa/LC/tree/master/2128-reverse-prefix-of-word) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/VizZzSaRa/LC/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/VizZzSaRa/LC/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2235-capitalize-the-title](https://github.com/VizZzSaRa/LC/tree/master/2235-capitalize-the-title) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/VizZzSaRa/LC/tree/master/2243-check-if-all-as-appears-before-all-bs) |
@@ -92,6 +93,7 @@ LeetCode Problems and their Solutions
 | [1468-check-if-n-and-its-double-exist](https://github.com/VizZzSaRa/LC/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/VizZzSaRa/LC/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/VizZzSaRa/LC/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/VizZzSaRa/LC/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2502-sort-the-people](https://github.com/VizZzSaRa/LC/tree/master/2502-sort-the-people) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/VizZzSaRa/LC/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2825-minimize-string-length](https://github.com/VizZzSaRa/LC/tree/master/2825-minimize-string-length) |
@@ -108,6 +110,7 @@ LeetCode Problems and their Solutions
 | [1468-check-if-n-and-its-double-exist](https://github.com/VizZzSaRa/LC/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/VizZzSaRa/LC/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/VizZzSaRa/LC/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/VizZzSaRa/LC/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/VizZzSaRa/LC/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/VizZzSaRa/LC/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2502-sort-the-people](https://github.com/VizZzSaRa/LC/tree/master/2502-sort-the-people) |
@@ -136,6 +139,7 @@ LeetCode Problems and their Solutions
 | [0387-first-unique-character-in-a-string](https://github.com/VizZzSaRa/LC/tree/master/0387-first-unique-character-in-a-string) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/VizZzSaRa/LC/tree/master/1823-determine-if-string-halves-are-alike) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/VizZzSaRa/LC/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/VizZzSaRa/LC/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/VizZzSaRa/LC/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/VizZzSaRa/LC/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/VizZzSaRa/LC/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
