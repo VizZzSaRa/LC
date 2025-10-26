@@ -112,6 +112,7 @@ LeetCode Problems and their Solutions
 | [1293-three-consecutive-odds](https://github.com/VizZzSaRa/LC/tree/master/1293-three-consecutive-odds) |
 | [1319-unique-number-of-occurrences](https://github.com/VizZzSaRa/LC/tree/master/1319-unique-number-of-occurrences) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/VizZzSaRa/LC/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/VizZzSaRa/LC/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1751-slowest-key](https://github.com/VizZzSaRa/LC/tree/master/1751-slowest-key) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/VizZzSaRa/LC/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/VizZzSaRa/LC/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -133,6 +134,7 @@ LeetCode Problems and their Solutions
 | ------- |
 | [0035-search-insert-position](https://github.com/VizZzSaRa/LC/tree/master/0035-search-insert-position) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/VizZzSaRa/LC/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/VizZzSaRa/LC/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/VizZzSaRa/LC/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Recursion
 |  |
@@ -201,6 +203,7 @@ LeetCode Problems and their Solutions
 ## Matrix
 |  |
 | ------- |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/VizZzSaRa/LC/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/VizZzSaRa/LC/tree/master/2132-convert-1d-array-into-2d-array) |
 | [3330-modify-the-matrix](https://github.com/VizZzSaRa/LC/tree/master/3330-modify-the-matrix) |
 ## Counting Sort
