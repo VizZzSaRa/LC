@@ -27,6 +27,7 @@ LeetCode Problems and their Solutions
 | [0290-word-pattern](https://github.com/VizZzSaRa/LC/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/VizZzSaRa/LC/tree/master/0387-first-unique-character-in-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/VizZzSaRa/LC/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0851-goat-latin](https://github.com/VizZzSaRa/LC/tree/master/0851-goat-latin) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/VizZzSaRa/LC/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1156-occurrences-after-bigram](https://github.com/VizZzSaRa/LC/tree/master/1156-occurrences-after-bigram) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/VizZzSaRa/LC/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
