@@ -4,6 +4,8 @@ class Solution {
         for(int i:arr) m.put(i,m.getOrDefault(i,0)+1);
         Set<Integer> s = new HashSet<>();
         for(int i:m.keySet()) s.add(m.get(i));
-        return s.size()==m.size();  
+        if(s.size()==m.size()) return true;
+        return false;
+  
     }
 }
