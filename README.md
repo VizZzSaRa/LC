@@ -15,6 +15,7 @@ LeetCode Problems and their Solutions
 | [3567-convert-date-to-binary](https://github.com/VizZzSaRa/LC/tree/master/3567-convert-date-to-binary) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/VizZzSaRa/LC/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/VizZzSaRa/LC/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3859-maximum-product-of-two-digits](https://github.com/VizZzSaRa/LC/tree/master/3859-maximum-product-of-two-digits) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/VizZzSaRa/LC/tree/master/3914-check-if-any-element-has-prime-frequency) |
 | [3994-find-the-least-frequent-digit](https://github.com/VizZzSaRa/LC/tree/master/3994-find-the-least-frequent-digit) |
 | [4051-remove-zeros-in-decimal-representation](https://github.com/VizZzSaRa/LC/tree/master/4051-remove-zeros-in-decimal-representation) |
@@ -175,6 +176,7 @@ LeetCode Problems and their Solutions
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/VizZzSaRa/LC/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2887-sort-vowels-in-a-string](https://github.com/VizZzSaRa/LC/tree/master/2887-sort-vowels-in-a-string) |
 | [3321-type-of-triangle](https://github.com/VizZzSaRa/LC/tree/master/3321-type-of-triangle) |
+| [3859-maximum-product-of-two-digits](https://github.com/VizZzSaRa/LC/tree/master/3859-maximum-product-of-two-digits) |
 ## Simulation
 |  |
 | ------- |
