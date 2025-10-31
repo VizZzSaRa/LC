@@ -16,6 +16,7 @@ LeetCode Problems and their Solutions
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/VizZzSaRa/LC/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/VizZzSaRa/LC/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/VizZzSaRa/LC/tree/master/3914-check-if-any-element-has-prime-frequency) |
+| [4051-remove-zeros-in-decimal-representation](https://github.com/VizZzSaRa/LC/tree/master/4051-remove-zeros-in-decimal-representation) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -181,6 +182,7 @@ LeetCode Problems and their Solutions
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/VizZzSaRa/LC/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3811-reverse-degree-of-a-string](https://github.com/VizZzSaRa/LC/tree/master/3811-reverse-degree-of-a-string) |
 | [3893-generate-tag-for-video-caption](https://github.com/VizZzSaRa/LC/tree/master/3893-generate-tag-for-video-caption) |
+| [4051-remove-zeros-in-decimal-representation](https://github.com/VizZzSaRa/LC/tree/master/4051-remove-zeros-in-decimal-representation) |
 ## Dynamic Programming
 |  |
 | ------- |
