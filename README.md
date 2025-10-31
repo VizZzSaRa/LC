@@ -8,6 +8,7 @@ LeetCode Problems and their Solutions
 | ------- |
 | [0070-climbing-stairs](https://github.com/VizZzSaRa/LC/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/VizZzSaRa/LC/tree/master/0231-power-of-two) |
+| [2608-count-the-digits-that-divide-a-number](https://github.com/VizZzSaRa/LC/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/VizZzSaRa/LC/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3321-type-of-triangle](https://github.com/VizZzSaRa/LC/tree/master/3321-type-of-triangle) |
 | [3371-harshad-number](https://github.com/VizZzSaRa/LC/tree/master/3371-harshad-number) |
