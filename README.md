@@ -7,6 +7,7 @@ LeetCode Problems and their Solutions
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/VizZzSaRa/LC/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/VizZzSaRa/LC/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/VizZzSaRa/LC/tree/master/0231-power-of-two) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/VizZzSaRa/LC/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/VizZzSaRa/LC/tree/master/3172-divisible-and-non-divisible-sums-difference) |
@@ -73,6 +74,7 @@ LeetCode Problems and their Solutions
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/VizZzSaRa/LC/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0202-happy-number](https://github.com/VizZzSaRa/LC/tree/master/0202-happy-number) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/VizZzSaRa/LC/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/VizZzSaRa/LC/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/VizZzSaRa/LC/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -93,6 +95,7 @@ LeetCode Problems and their Solutions
 ## Hash Table
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/VizZzSaRa/LC/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/VizZzSaRa/LC/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/VizZzSaRa/LC/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/VizZzSaRa/LC/tree/master/0387-first-unique-character-in-a-string) |
