@@ -104,6 +104,7 @@ LeetCode Problems and their Solutions
 | [1468-check-if-n-and-its-double-exist](https://github.com/VizZzSaRa/LC/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/VizZzSaRa/LC/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/VizZzSaRa/LC/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/VizZzSaRa/LC/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/VizZzSaRa/LC/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2502-sort-the-people](https://github.com/VizZzSaRa/LC/tree/master/2502-sort-the-people) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/VizZzSaRa/LC/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
@@ -125,6 +126,7 @@ LeetCode Problems and their Solutions
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/VizZzSaRa/LC/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1751-slowest-key](https://github.com/VizZzSaRa/LC/tree/master/1751-slowest-key) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/VizZzSaRa/LC/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
+| [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/VizZzSaRa/LC/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/VizZzSaRa/LC/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/VizZzSaRa/LC/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/VizZzSaRa/LC/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -158,6 +160,7 @@ LeetCode Problems and their Solutions
 | [0387-first-unique-character-in-a-string](https://github.com/VizZzSaRa/LC/tree/master/0387-first-unique-character-in-a-string) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/VizZzSaRa/LC/tree/master/1823-determine-if-string-halves-are-alike) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/VizZzSaRa/LC/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/VizZzSaRa/LC/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/VizZzSaRa/LC/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/VizZzSaRa/LC/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/VizZzSaRa/LC/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
