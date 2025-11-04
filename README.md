@@ -10,6 +10,7 @@ LeetCode Problems and their Solutions
 | [0202-happy-number](https://github.com/VizZzSaRa/LC/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/VizZzSaRa/LC/tree/master/0231-power-of-two) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/VizZzSaRa/LC/tree/master/2608-count-the-digits-that-divide-a-number) |
+| [2722-prime-in-diagonal](https://github.com/VizZzSaRa/LC/tree/master/2722-prime-in-diagonal) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/VizZzSaRa/LC/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3321-type-of-triangle](https://github.com/VizZzSaRa/LC/tree/master/3321-type-of-triangle) |
 | [3371-harshad-number](https://github.com/VizZzSaRa/LC/tree/master/3371-harshad-number) |
@@ -139,6 +140,7 @@ LeetCode Problems and their Solutions
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/VizZzSaRa/LC/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/VizZzSaRa/LC/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/VizZzSaRa/LC/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
+| [2722-prime-in-diagonal](https://github.com/VizZzSaRa/LC/tree/master/2722-prime-in-diagonal) |
 | [2881-split-strings-by-separator](https://github.com/VizZzSaRa/LC/tree/master/2881-split-strings-by-separator) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/VizZzSaRa/LC/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3321-type-of-triangle](https://github.com/VizZzSaRa/LC/tree/master/3321-type-of-triangle) |
@@ -217,6 +219,7 @@ LeetCode Problems and their Solutions
 ## Number Theory
 |  |
 | ------- |
+| [2722-prime-in-diagonal](https://github.com/VizZzSaRa/LC/tree/master/2722-prime-in-diagonal) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/VizZzSaRa/LC/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/VizZzSaRa/LC/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Stack
@@ -230,6 +233,7 @@ LeetCode Problems and their Solutions
 | ------- |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/VizZzSaRa/LC/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/VizZzSaRa/LC/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2722-prime-in-diagonal](https://github.com/VizZzSaRa/LC/tree/master/2722-prime-in-diagonal) |
 | [3330-modify-the-matrix](https://github.com/VizZzSaRa/LC/tree/master/3330-modify-the-matrix) |
 ## Counting Sort
 |  |
