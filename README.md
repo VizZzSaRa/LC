@@ -20,6 +20,7 @@ LeetCode Problems and their Solutions
 | [3859-maximum-product-of-two-digits](https://github.com/VizZzSaRa/LC/tree/master/3859-maximum-product-of-two-digits) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/VizZzSaRa/LC/tree/master/3914-check-if-any-element-has-prime-frequency) |
 | [3994-find-the-least-frequent-digit](https://github.com/VizZzSaRa/LC/tree/master/3994-find-the-least-frequent-digit) |
+| [3995-gcd-of-odd-and-even-sums](https://github.com/VizZzSaRa/LC/tree/master/3995-gcd-of-odd-and-even-sums) |
 | [4051-remove-zeros-in-decimal-representation](https://github.com/VizZzSaRa/LC/tree/master/4051-remove-zeros-in-decimal-representation) |
 ## Bit Manipulation
 |  |
@@ -222,6 +223,7 @@ LeetCode Problems and their Solutions
 | [2722-prime-in-diagonal](https://github.com/VizZzSaRa/LC/tree/master/2722-prime-in-diagonal) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/VizZzSaRa/LC/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/VizZzSaRa/LC/tree/master/3914-check-if-any-element-has-prime-frequency) |
+| [3995-gcd-of-odd-and-even-sums](https://github.com/VizZzSaRa/LC/tree/master/3995-gcd-of-odd-and-even-sums) |
 ## Stack
 |  |
 | ------- |
