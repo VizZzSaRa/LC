@@ -140,6 +140,7 @@ LeetCode Problems and their Solutions
 | [2502-sort-the-people](https://github.com/VizZzSaRa/LC/tree/master/2502-sort-the-people) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/VizZzSaRa/LC/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/VizZzSaRa/LC/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2639-separate-the-digits-in-an-array](https://github.com/VizZzSaRa/LC/tree/master/2639-separate-the-digits-in-an-array) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/VizZzSaRa/LC/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2722-prime-in-diagonal](https://github.com/VizZzSaRa/LC/tree/master/2722-prime-in-diagonal) |
 | [2881-split-strings-by-separator](https://github.com/VizZzSaRa/LC/tree/master/2881-split-strings-by-separator) |
@@ -199,6 +200,7 @@ LeetCode Problems and their Solutions
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/VizZzSaRa/LC/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/VizZzSaRa/LC/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/VizZzSaRa/LC/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [2639-separate-the-digits-in-an-array](https://github.com/VizZzSaRa/LC/tree/master/2639-separate-the-digits-in-an-array) |
 | [2886-faulty-keyboard](https://github.com/VizZzSaRa/LC/tree/master/2886-faulty-keyboard) |
 | [3447-clear-digits](https://github.com/VizZzSaRa/LC/tree/master/3447-clear-digits) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/VizZzSaRa/LC/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
