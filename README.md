@@ -36,6 +36,7 @@ LeetCode Problems and their Solutions
 | [0290-word-pattern](https://github.com/VizZzSaRa/LC/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/VizZzSaRa/LC/tree/master/0387-first-unique-character-in-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/VizZzSaRa/LC/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0822-unique-morse-code-words](https://github.com/VizZzSaRa/LC/tree/master/0822-unique-morse-code-words) |
 | [0851-goat-latin](https://github.com/VizZzSaRa/LC/tree/master/0851-goat-latin) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/VizZzSaRa/LC/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1156-occurrences-after-bigram](https://github.com/VizZzSaRa/LC/tree/master/1156-occurrences-after-bigram) |
@@ -103,6 +104,7 @@ LeetCode Problems and their Solutions
 | [0205-isomorphic-strings](https://github.com/VizZzSaRa/LC/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/VizZzSaRa/LC/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/VizZzSaRa/LC/tree/master/0387-first-unique-character-in-a-string) |
+| [0822-unique-morse-code-words](https://github.com/VizZzSaRa/LC/tree/master/0822-unique-morse-code-words) |
 | [1217-relative-sort-array](https://github.com/VizZzSaRa/LC/tree/master/1217-relative-sort-array) |
 | [1319-unique-number-of-occurrences](https://github.com/VizZzSaRa/LC/tree/master/1319-unique-number-of-occurrences) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/VizZzSaRa/LC/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -126,6 +128,7 @@ LeetCode Problems and their Solutions
 | ------- |
 | [0035-search-insert-position](https://github.com/VizZzSaRa/LC/tree/master/0035-search-insert-position) |
 | [0506-relative-ranks](https://github.com/VizZzSaRa/LC/tree/master/0506-relative-ranks) |
+| [0822-unique-morse-code-words](https://github.com/VizZzSaRa/LC/tree/master/0822-unique-morse-code-words) |
 | [1217-relative-sort-array](https://github.com/VizZzSaRa/LC/tree/master/1217-relative-sort-array) |
 | [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/VizZzSaRa/LC/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
 | [1293-three-consecutive-odds](https://github.com/VizZzSaRa/LC/tree/master/1293-three-consecutive-odds) |
