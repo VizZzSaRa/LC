@@ -14,10 +14,7 @@ class Solution {
         for(String i:m.keySet()){
             if(m.get(i)==min) l.add(i);
         }
-        String [] arr= new String[l.size()];
-        int k=0;
-        for(String i:l) arr[k++] =i;
-        return arr;
+        return l.toArray(new String[0]);
         
     }
 }
