@@ -28,6 +28,7 @@ LeetCode Problems and their Solutions
 | ------- |
 | [0231-power-of-two](https://github.com/VizZzSaRa/LC/tree/master/0231-power-of-two) |
 | [0476-number-complement](https://github.com/VizZzSaRa/LC/tree/master/0476-number-complement) |
+| [0861-flipping-an-image](https://github.com/VizZzSaRa/LC/tree/master/0861-flipping-an-image) |
 | [2427-first-letter-to-appear-twice](https://github.com/VizZzSaRa/LC/tree/master/2427-first-letter-to-appear-twice) |
 ## String
 |  |
@@ -83,6 +84,7 @@ LeetCode Problems and their Solutions
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/VizZzSaRa/LC/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0202-happy-number](https://github.com/VizZzSaRa/LC/tree/master/0202-happy-number) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/VizZzSaRa/LC/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0861-flipping-an-image](https://github.com/VizZzSaRa/LC/tree/master/0861-flipping-an-image) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/VizZzSaRa/LC/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/VizZzSaRa/LC/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2128-reverse-prefix-of-word](https://github.com/VizZzSaRa/LC/tree/master/2128-reverse-prefix-of-word) |
@@ -136,6 +138,7 @@ LeetCode Problems and their Solutions
 | [0506-relative-ranks](https://github.com/VizZzSaRa/LC/tree/master/0506-relative-ranks) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/VizZzSaRa/LC/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0822-unique-morse-code-words](https://github.com/VizZzSaRa/LC/tree/master/0822-unique-morse-code-words) |
+| [0861-flipping-an-image](https://github.com/VizZzSaRa/LC/tree/master/0861-flipping-an-image) |
 | [1217-relative-sort-array](https://github.com/VizZzSaRa/LC/tree/master/1217-relative-sort-array) |
 | [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/VizZzSaRa/LC/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
 | [1256-rank-transform-of-an-array](https://github.com/VizZzSaRa/LC/tree/master/1256-rank-transform-of-an-array) |
@@ -212,6 +215,7 @@ LeetCode Problems and their Solutions
 ## Simulation
 |  |
 | ------- |
+| [0861-flipping-an-image](https://github.com/VizZzSaRa/LC/tree/master/0861-flipping-an-image) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/VizZzSaRa/LC/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/VizZzSaRa/LC/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/VizZzSaRa/LC/tree/master/2260-divide-a-string-into-groups-of-size-k) |
@@ -252,6 +256,7 @@ LeetCode Problems and their Solutions
 ## Matrix
 |  |
 | ------- |
+| [0861-flipping-an-image](https://github.com/VizZzSaRa/LC/tree/master/0861-flipping-an-image) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/VizZzSaRa/LC/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/VizZzSaRa/LC/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2722-prime-in-diagonal](https://github.com/VizZzSaRa/LC/tree/master/2722-prime-in-diagonal) |
