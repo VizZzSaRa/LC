@@ -37,6 +37,7 @@ LeetCode Problems and their Solutions
 | [0290-word-pattern](https://github.com/VizZzSaRa/LC/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/VizZzSaRa/LC/tree/master/0387-first-unique-character-in-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/VizZzSaRa/LC/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/VizZzSaRa/LC/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0822-unique-morse-code-words](https://github.com/VizZzSaRa/LC/tree/master/0822-unique-morse-code-words) |
 | [0851-goat-latin](https://github.com/VizZzSaRa/LC/tree/master/0851-goat-latin) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/VizZzSaRa/LC/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -106,6 +107,7 @@ LeetCode Problems and their Solutions
 | [0290-word-pattern](https://github.com/VizZzSaRa/LC/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/VizZzSaRa/LC/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/VizZzSaRa/LC/tree/master/0496-next-greater-element-i) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/VizZzSaRa/LC/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0822-unique-morse-code-words](https://github.com/VizZzSaRa/LC/tree/master/0822-unique-morse-code-words) |
 | [1217-relative-sort-array](https://github.com/VizZzSaRa/LC/tree/master/1217-relative-sort-array) |
 | [1256-rank-transform-of-an-array](https://github.com/VizZzSaRa/LC/tree/master/1256-rank-transform-of-an-array) |
@@ -132,6 +134,7 @@ LeetCode Problems and their Solutions
 | [0035-search-insert-position](https://github.com/VizZzSaRa/LC/tree/master/0035-search-insert-position) |
 | [0496-next-greater-element-i](https://github.com/VizZzSaRa/LC/tree/master/0496-next-greater-element-i) |
 | [0506-relative-ranks](https://github.com/VizZzSaRa/LC/tree/master/0506-relative-ranks) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/VizZzSaRa/LC/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0822-unique-morse-code-words](https://github.com/VizZzSaRa/LC/tree/master/0822-unique-morse-code-words) |
 | [1217-relative-sort-array](https://github.com/VizZzSaRa/LC/tree/master/1217-relative-sort-array) |
 | [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/VizZzSaRa/LC/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
