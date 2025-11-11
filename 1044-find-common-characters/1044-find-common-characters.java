@@ -20,7 +20,6 @@ class Solution {
             StringBuilder sb = new StringBuilder(arr[i]);
             sb.deleteCharAt(arr[i].indexOf(tar));
             arr[i] = sb.toString();
-            sb.setLength(0);
         }
     }
 }
