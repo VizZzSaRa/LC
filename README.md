@@ -105,6 +105,7 @@ LeetCode Problems and their Solutions
 | [0205-isomorphic-strings](https://github.com/VizZzSaRa/LC/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/VizZzSaRa/LC/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/VizZzSaRa/LC/tree/master/0387-first-unique-character-in-a-string) |
+| [0496-next-greater-element-i](https://github.com/VizZzSaRa/LC/tree/master/0496-next-greater-element-i) |
 | [0822-unique-morse-code-words](https://github.com/VizZzSaRa/LC/tree/master/0822-unique-morse-code-words) |
 | [1217-relative-sort-array](https://github.com/VizZzSaRa/LC/tree/master/1217-relative-sort-array) |
 | [1256-rank-transform-of-an-array](https://github.com/VizZzSaRa/LC/tree/master/1256-rank-transform-of-an-array) |
@@ -129,6 +130,7 @@ LeetCode Problems and their Solutions
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/VizZzSaRa/LC/tree/master/0035-search-insert-position) |
+| [0496-next-greater-element-i](https://github.com/VizZzSaRa/LC/tree/master/0496-next-greater-element-i) |
 | [0506-relative-ranks](https://github.com/VizZzSaRa/LC/tree/master/0506-relative-ranks) |
 | [0822-unique-morse-code-words](https://github.com/VizZzSaRa/LC/tree/master/0822-unique-morse-code-words) |
 | [1217-relative-sort-array](https://github.com/VizZzSaRa/LC/tree/master/1217-relative-sort-array) |
@@ -240,6 +242,7 @@ LeetCode Problems and their Solutions
 ## Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/VizZzSaRa/LC/tree/master/0496-next-greater-element-i) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/VizZzSaRa/LC/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [2128-reverse-prefix-of-word](https://github.com/VizZzSaRa/LC/tree/master/2128-reverse-prefix-of-word) |
 | [3447-clear-digits](https://github.com/VizZzSaRa/LC/tree/master/3447-clear-digits) |
@@ -258,4 +261,8 @@ LeetCode Problems and their Solutions
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/VizZzSaRa/LC/tree/master/0506-relative-ranks) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/VizZzSaRa/LC/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
