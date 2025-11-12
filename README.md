@@ -142,6 +142,7 @@ LeetCode Problems and their Solutions
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/VizZzSaRa/LC/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/VizZzSaRa/LC/tree/master/3914-check-if-any-element-has-prime-frequency) |
 | [3994-find-the-least-frequent-digit](https://github.com/VizZzSaRa/LC/tree/master/3994-find-the-least-frequent-digit) |
+| [4008-restore-finishing-order](https://github.com/VizZzSaRa/LC/tree/master/4008-restore-finishing-order) |
 | [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/VizZzSaRa/LC/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
 ## Array
 |  |
@@ -184,6 +185,7 @@ LeetCode Problems and their Solutions
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/VizZzSaRa/LC/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/VizZzSaRa/LC/tree/master/3914-check-if-any-element-has-prime-frequency) |
 | [3994-find-the-least-frequent-digit](https://github.com/VizZzSaRa/LC/tree/master/3994-find-the-least-frequent-digit) |
+| [4008-restore-finishing-order](https://github.com/VizZzSaRa/LC/tree/master/4008-restore-finishing-order) |
 | [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/VizZzSaRa/LC/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
 ## Binary Search
 |  |
