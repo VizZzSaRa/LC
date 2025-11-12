@@ -113,6 +113,7 @@ LeetCode Problems and their Solutions
 | [0496-next-greater-element-i](https://github.com/VizZzSaRa/LC/tree/master/0496-next-greater-element-i) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/VizZzSaRa/LC/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0822-unique-morse-code-words](https://github.com/VizZzSaRa/LC/tree/master/0822-unique-morse-code-words) |
+| [1001-n-repeated-element-in-size-2n-array](https://github.com/VizZzSaRa/LC/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1044-find-common-characters](https://github.com/VizZzSaRa/LC/tree/master/1044-find-common-characters) |
 | [1217-relative-sort-array](https://github.com/VizZzSaRa/LC/tree/master/1217-relative-sort-array) |
 | [1256-rank-transform-of-an-array](https://github.com/VizZzSaRa/LC/tree/master/1256-rank-transform-of-an-array) |
@@ -144,6 +145,7 @@ LeetCode Problems and their Solutions
 | [0599-minimum-index-sum-of-two-lists](https://github.com/VizZzSaRa/LC/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0822-unique-morse-code-words](https://github.com/VizZzSaRa/LC/tree/master/0822-unique-morse-code-words) |
 | [0861-flipping-an-image](https://github.com/VizZzSaRa/LC/tree/master/0861-flipping-an-image) |
+| [1001-n-repeated-element-in-size-2n-array](https://github.com/VizZzSaRa/LC/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1044-find-common-characters](https://github.com/VizZzSaRa/LC/tree/master/1044-find-common-characters) |
 | [1217-relative-sort-array](https://github.com/VizZzSaRa/LC/tree/master/1217-relative-sort-array) |
 | [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/VizZzSaRa/LC/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
