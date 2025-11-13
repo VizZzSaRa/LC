@@ -166,6 +166,7 @@ LeetCode Problems and their Solutions
 | [1319-unique-number-of-occurrences](https://github.com/VizZzSaRa/LC/tree/master/1319-unique-number-of-occurrences) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/VizZzSaRa/LC/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/VizZzSaRa/LC/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [1626-can-make-arithmetic-progression-from-sequence](https://github.com/VizZzSaRa/LC/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1751-slowest-key](https://github.com/VizZzSaRa/LC/tree/master/1751-slowest-key) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/VizZzSaRa/LC/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/VizZzSaRa/LC/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
@@ -231,6 +232,7 @@ LeetCode Problems and their Solutions
 | [1217-relative-sort-array](https://github.com/VizZzSaRa/LC/tree/master/1217-relative-sort-array) |
 | [1256-rank-transform-of-an-array](https://github.com/VizZzSaRa/LC/tree/master/1256-rank-transform-of-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/VizZzSaRa/LC/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1626-can-make-arithmetic-progression-from-sequence](https://github.com/VizZzSaRa/LC/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1970-sorting-the-sentence](https://github.com/VizZzSaRa/LC/tree/master/1970-sorting-the-sentence) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/VizZzSaRa/LC/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2502-sort-the-people](https://github.com/VizZzSaRa/LC/tree/master/2502-sort-the-people) |
