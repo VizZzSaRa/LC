@@ -11,6 +11,7 @@ LeetCode Problems and their Solutions
 | [0202-happy-number](https://github.com/VizZzSaRa/LC/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/VizZzSaRa/LC/tree/master/0231-power-of-two) |
 | [2288-count-operations-to-obtain-zero](https://github.com/VizZzSaRa/LC/tree/master/2288-count-operations-to-obtain-zero) |
+| [2571-find-the-pivot-integer](https://github.com/VizZzSaRa/LC/tree/master/2571-find-the-pivot-integer) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/VizZzSaRa/LC/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2722-prime-in-diagonal](https://github.com/VizZzSaRa/LC/tree/master/2722-prime-in-diagonal) |
 | [2824-check-if-the-number-is-fascinating](https://github.com/VizZzSaRa/LC/tree/master/2824-check-if-the-number-is-fascinating) |
@@ -312,4 +313,8 @@ LeetCode Problems and their Solutions
 |  |
 | ------- |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/VizZzSaRa/LC/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+## Prefix Sum
+|  |
+| ------- |
+| [2571-find-the-pivot-integer](https://github.com/VizZzSaRa/LC/tree/master/2571-find-the-pivot-integer) |
 <!---LeetCode Topics End-->
