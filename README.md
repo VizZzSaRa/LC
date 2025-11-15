@@ -11,6 +11,7 @@ LeetCode Problems and their Solutions
 | [0070-climbing-stairs](https://github.com/VizZzSaRa/LC/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/VizZzSaRa/LC/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/VizZzSaRa/LC/tree/master/0231-power-of-two) |
+| [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/VizZzSaRa/LC/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [2288-count-operations-to-obtain-zero](https://github.com/VizZzSaRa/LC/tree/master/2288-count-operations-to-obtain-zero) |
 | [2571-find-the-pivot-integer](https://github.com/VizZzSaRa/LC/tree/master/2571-find-the-pivot-integer) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/VizZzSaRa/LC/tree/master/2608-count-the-digits-that-divide-a-number) |
@@ -32,6 +33,7 @@ LeetCode Problems and their Solutions
 | ------- |
 | [0231-power-of-two](https://github.com/VizZzSaRa/LC/tree/master/0231-power-of-two) |
 | [0476-number-complement](https://github.com/VizZzSaRa/LC/tree/master/0476-number-complement) |
+| [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/VizZzSaRa/LC/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [0861-flipping-an-image](https://github.com/VizZzSaRa/LC/tree/master/0861-flipping-an-image) |
 | [2427-first-letter-to-appear-twice](https://github.com/VizZzSaRa/LC/tree/master/2427-first-letter-to-appear-twice) |
 ## String
