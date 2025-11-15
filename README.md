@@ -95,6 +95,7 @@ LeetCode Problems and their Solutions
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/VizZzSaRa/LC/tree/master/0011-container-with-most-water) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/VizZzSaRa/LC/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0202-happy-number](https://github.com/VizZzSaRa/LC/tree/master/0202-happy-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/VizZzSaRa/LC/tree/master/0345-reverse-vowels-of-a-string) |
@@ -162,6 +163,7 @@ LeetCode Problems and their Solutions
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/VizZzSaRa/LC/tree/master/0011-container-with-most-water) |
 | [0035-search-insert-position](https://github.com/VizZzSaRa/LC/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/VizZzSaRa/LC/tree/master/0066-plus-one) |
 | [0496-next-greater-element-i](https://github.com/VizZzSaRa/LC/tree/master/0496-next-greater-element-i) |
@@ -327,6 +329,7 @@ LeetCode Problems and their Solutions
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/VizZzSaRa/LC/tree/master/0011-container-with-most-water) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/VizZzSaRa/LC/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Sliding Window
 |  |
