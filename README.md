@@ -169,6 +169,7 @@ LeetCode Problems and their Solutions
 | [0496-next-greater-element-i](https://github.com/VizZzSaRa/LC/tree/master/0496-next-greater-element-i) |
 | [0506-relative-ranks](https://github.com/VizZzSaRa/LC/tree/master/0506-relative-ranks) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/VizZzSaRa/LC/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0792-binary-search](https://github.com/VizZzSaRa/LC/tree/master/0792-binary-search) |
 | [0822-unique-morse-code-words](https://github.com/VizZzSaRa/LC/tree/master/0822-unique-morse-code-words) |
 | [0861-flipping-an-image](https://github.com/VizZzSaRa/LC/tree/master/0861-flipping-an-image) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/VizZzSaRa/LC/tree/master/1001-n-repeated-element-in-size-2n-array) |
@@ -215,6 +216,7 @@ LeetCode Problems and their Solutions
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/VizZzSaRa/LC/tree/master/0035-search-insert-position) |
+| [0792-binary-search](https://github.com/VizZzSaRa/LC/tree/master/0792-binary-search) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/VizZzSaRa/LC/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/VizZzSaRa/LC/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/VizZzSaRa/LC/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
