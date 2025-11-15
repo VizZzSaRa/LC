@@ -7,6 +7,7 @@ LeetCode Problems and their Solutions
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/VizZzSaRa/LC/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/VizZzSaRa/LC/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/VizZzSaRa/LC/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/VizZzSaRa/LC/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/VizZzSaRa/LC/tree/master/0231-power-of-two) |
@@ -160,6 +161,7 @@ LeetCode Problems and their Solutions
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/VizZzSaRa/LC/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/VizZzSaRa/LC/tree/master/0066-plus-one) |
 | [0496-next-greater-element-i](https://github.com/VizZzSaRa/LC/tree/master/0496-next-greater-element-i) |
 | [0506-relative-ranks](https://github.com/VizZzSaRa/LC/tree/master/0506-relative-ranks) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/VizZzSaRa/LC/tree/master/0599-minimum-index-sum-of-two-lists) |
