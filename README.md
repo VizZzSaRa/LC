@@ -181,6 +181,7 @@ LeetCode Problems and their Solutions
 | [1319-unique-number-of-occurrences](https://github.com/VizZzSaRa/LC/tree/master/1319-unique-number-of-occurrences) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/VizZzSaRa/LC/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/VizZzSaRa/LC/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [1560-number-of-students-doing-homework-at-a-given-time](https://github.com/VizZzSaRa/LC/tree/master/1560-number-of-students-doing-homework-at-a-given-time) |
 | [1580-shuffle-the-array](https://github.com/VizZzSaRa/LC/tree/master/1580-shuffle-the-array) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/VizZzSaRa/LC/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1751-slowest-key](https://github.com/VizZzSaRa/LC/tree/master/1751-slowest-key) |
