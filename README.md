@@ -155,6 +155,7 @@ LeetCode Problems and their Solutions
 | [3408-count-the-number-of-special-characters-i](https://github.com/VizZzSaRa/LC/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/VizZzSaRa/LC/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/VizZzSaRa/LC/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3731-find-missing-elements](https://github.com/VizZzSaRa/LC/tree/master/3731-find-missing-elements) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/VizZzSaRa/LC/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/VizZzSaRa/LC/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/VizZzSaRa/LC/tree/master/3914-check-if-any-element-has-prime-frequency) |
@@ -210,6 +211,7 @@ LeetCode Problems and their Solutions
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/VizZzSaRa/LC/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/VizZzSaRa/LC/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/VizZzSaRa/LC/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
+| [3731-find-missing-elements](https://github.com/VizZzSaRa/LC/tree/master/3731-find-missing-elements) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/VizZzSaRa/LC/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/VizZzSaRa/LC/tree/master/3914-check-if-any-element-has-prime-frequency) |
 | [3994-find-the-least-frequent-digit](https://github.com/VizZzSaRa/LC/tree/master/3994-find-the-least-frequent-digit) |
@@ -265,6 +267,7 @@ LeetCode Problems and their Solutions
 | [2887-sort-vowels-in-a-string](https://github.com/VizZzSaRa/LC/tree/master/2887-sort-vowels-in-a-string) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/VizZzSaRa/LC/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3321-type-of-triangle](https://github.com/VizZzSaRa/LC/tree/master/3321-type-of-triangle) |
+| [3731-find-missing-elements](https://github.com/VizZzSaRa/LC/tree/master/3731-find-missing-elements) |
 | [3859-maximum-product-of-two-digits](https://github.com/VizZzSaRa/LC/tree/master/3859-maximum-product-of-two-digits) |
 ## Simulation
 |  |
