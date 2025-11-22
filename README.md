@@ -159,6 +159,7 @@ LeetCode Problems and their Solutions
 | [3408-count-the-number-of-special-characters-i](https://github.com/VizZzSaRa/LC/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/VizZzSaRa/LC/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/VizZzSaRa/LC/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/VizZzSaRa/LC/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/VizZzSaRa/LC/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/VizZzSaRa/LC/tree/master/3731-find-missing-elements) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/VizZzSaRa/LC/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -217,6 +218,7 @@ LeetCode Problems and their Solutions
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/VizZzSaRa/LC/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/VizZzSaRa/LC/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/VizZzSaRa/LC/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
+| [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/VizZzSaRa/LC/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/VizZzSaRa/LC/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3697-compute-decimal-representation](https://github.com/VizZzSaRa/LC/tree/master/3697-compute-decimal-representation) |
 | [3701-compute-alternating-sum](https://github.com/VizZzSaRa/LC/tree/master/3701-compute-alternating-sum) |
@@ -277,6 +279,7 @@ LeetCode Problems and their Solutions
 | [2887-sort-vowels-in-a-string](https://github.com/VizZzSaRa/LC/tree/master/2887-sort-vowels-in-a-string) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/VizZzSaRa/LC/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3321-type-of-triangle](https://github.com/VizZzSaRa/LC/tree/master/3321-type-of-triangle) |
+| [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/VizZzSaRa/LC/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3731-find-missing-elements](https://github.com/VizZzSaRa/LC/tree/master/3731-find-missing-elements) |
 | [3859-maximum-product-of-two-digits](https://github.com/VizZzSaRa/LC/tree/master/3859-maximum-product-of-two-digits) |
 ## Simulation
@@ -352,6 +355,7 @@ LeetCode Problems and their Solutions
 | ------- |
 | [0011-container-with-most-water](https://github.com/VizZzSaRa/LC/tree/master/0011-container-with-most-water) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/VizZzSaRa/LC/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/VizZzSaRa/LC/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 ## Sliding Window
 |  |
 | ------- |
