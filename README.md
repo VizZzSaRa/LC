@@ -78,6 +78,7 @@ LeetCode Problems and their Solutions
 | [2427-first-letter-to-appear-twice](https://github.com/VizZzSaRa/LC/tree/master/2427-first-letter-to-appear-twice) |
 | [2502-sort-the-people](https://github.com/VizZzSaRa/LC/tree/master/2502-sort-the-people) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/VizZzSaRa/LC/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/VizZzSaRa/LC/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2825-minimize-string-length](https://github.com/VizZzSaRa/LC/tree/master/2825-minimize-string-length) |
 | [2881-split-strings-by-separator](https://github.com/VizZzSaRa/LC/tree/master/2881-split-strings-by-separator) |
 | [2886-faulty-keyboard](https://github.com/VizZzSaRa/LC/tree/master/2886-faulty-keyboard) |
@@ -149,6 +150,7 @@ LeetCode Problems and their Solutions
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/VizZzSaRa/LC/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2502-sort-the-people](https://github.com/VizZzSaRa/LC/tree/master/2502-sort-the-people) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/VizZzSaRa/LC/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/VizZzSaRa/LC/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2824-check-if-the-number-is-fascinating](https://github.com/VizZzSaRa/LC/tree/master/2824-check-if-the-number-is-fascinating) |
 | [2825-minimize-string-length](https://github.com/VizZzSaRa/LC/tree/master/2825-minimize-string-length) |
 | [3353-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/VizZzSaRa/LC/tree/master/3353-existence-of-a-substring-in-a-string-and-its-reverse) |
@@ -203,6 +205,7 @@ LeetCode Problems and their Solutions
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/VizZzSaRa/LC/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2698-find-the-array-concatenation-value](https://github.com/VizZzSaRa/LC/tree/master/2698-find-the-array-concatenation-value) |
 | [2722-prime-in-diagonal](https://github.com/VizZzSaRa/LC/tree/master/2722-prime-in-diagonal) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/VizZzSaRa/LC/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2881-split-strings-by-separator](https://github.com/VizZzSaRa/LC/tree/master/2881-split-strings-by-separator) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/VizZzSaRa/LC/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/VizZzSaRa/LC/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
@@ -281,6 +284,7 @@ LeetCode Problems and their Solutions
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/VizZzSaRa/LC/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2639-separate-the-digits-in-an-array](https://github.com/VizZzSaRa/LC/tree/master/2639-separate-the-digits-in-an-array) |
 | [2698-find-the-array-concatenation-value](https://github.com/VizZzSaRa/LC/tree/master/2698-find-the-array-concatenation-value) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/VizZzSaRa/LC/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2886-faulty-keyboard](https://github.com/VizZzSaRa/LC/tree/master/2886-faulty-keyboard) |
 | [3447-clear-digits](https://github.com/VizZzSaRa/LC/tree/master/3447-clear-digits) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/VizZzSaRa/LC/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
