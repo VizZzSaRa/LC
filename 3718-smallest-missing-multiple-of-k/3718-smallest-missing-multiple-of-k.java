@@ -3,10 +3,7 @@ class Solution {
         List<Integer> s= new ArrayList<>();
         for(int i:arr) s.add(i);
         int n=0;
-        int ans=0;
-        while(s.contains(n+=k)){
-            ans=n;
-        }
+        while(s.contains(n+=k)){}
         return n;
         
     }
