@@ -157,6 +157,7 @@ LeetCode Problems and their Solutions
 | [3408-count-the-number-of-special-characters-i](https://github.com/VizZzSaRa/LC/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/VizZzSaRa/LC/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/VizZzSaRa/LC/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/VizZzSaRa/LC/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/VizZzSaRa/LC/tree/master/3731-find-missing-elements) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/VizZzSaRa/LC/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/VizZzSaRa/LC/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -214,6 +215,7 @@ LeetCode Problems and their Solutions
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/VizZzSaRa/LC/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/VizZzSaRa/LC/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/VizZzSaRa/LC/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/VizZzSaRa/LC/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/VizZzSaRa/LC/tree/master/3731-find-missing-elements) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/VizZzSaRa/LC/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/VizZzSaRa/LC/tree/master/3914-check-if-any-element-has-prime-frequency) |
