@@ -38,6 +38,7 @@ LeetCode Problems and their Solutions
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/VizZzSaRa/LC/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [0861-flipping-an-image](https://github.com/VizZzSaRa/LC/tree/master/0861-flipping-an-image) |
 | [2427-first-letter-to-appear-twice](https://github.com/VizZzSaRa/LC/tree/master/2427-first-letter-to-appear-twice) |
+| [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/VizZzSaRa/LC/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/VizZzSaRa/LC/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/VizZzSaRa/LC/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 ## String
@@ -214,6 +215,7 @@ LeetCode Problems and their Solutions
 | [2698-find-the-array-concatenation-value](https://github.com/VizZzSaRa/LC/tree/master/2698-find-the-array-concatenation-value) |
 | [2722-prime-in-diagonal](https://github.com/VizZzSaRa/LC/tree/master/2722-prime-in-diagonal) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/VizZzSaRa/LC/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/VizZzSaRa/LC/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [2881-split-strings-by-separator](https://github.com/VizZzSaRa/LC/tree/master/2881-split-strings-by-separator) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/VizZzSaRa/LC/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/VizZzSaRa/LC/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
