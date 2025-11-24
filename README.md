@@ -87,6 +87,7 @@ LeetCode Problems and their Solutions
 | [2886-faulty-keyboard](https://github.com/VizZzSaRa/LC/tree/master/2886-faulty-keyboard) |
 | [2887-sort-vowels-in-a-string](https://github.com/VizZzSaRa/LC/tree/master/2887-sort-vowels-in-a-string) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/VizZzSaRa/LC/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/VizZzSaRa/LC/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3353-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/VizZzSaRa/LC/tree/master/3353-existence-of-a-substring-in-a-string-and-its-reverse) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/VizZzSaRa/LC/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3447-clear-digits](https://github.com/VizZzSaRa/LC/tree/master/3447-clear-digits) |
@@ -119,6 +120,7 @@ LeetCode Problems and their Solutions
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/VizZzSaRa/LC/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/VizZzSaRa/LC/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/VizZzSaRa/LC/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 ## Database
 |  |
 | ------- |
@@ -215,6 +217,7 @@ LeetCode Problems and their Solutions
 | [2881-split-strings-by-separator](https://github.com/VizZzSaRa/LC/tree/master/2881-split-strings-by-separator) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/VizZzSaRa/LC/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/VizZzSaRa/LC/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/VizZzSaRa/LC/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/VizZzSaRa/LC/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3285-find-indices-of-stable-mountains](https://github.com/VizZzSaRa/LC/tree/master/3285-find-indices-of-stable-mountains) |
 | [3321-type-of-triangle](https://github.com/VizZzSaRa/LC/tree/master/3321-type-of-triangle) |
@@ -369,4 +372,16 @@ LeetCode Problems and their Solutions
 |  |
 | ------- |
 | [2571-find-the-pivot-integer](https://github.com/VizZzSaRa/LC/tree/master/2571-find-the-pivot-integer) |
+## Trie
+|  |
+| ------- |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/VizZzSaRa/LC/tree/master/3042-count-prefix-and-suffix-pairs-i) |
+## Rolling Hash
+|  |
+| ------- |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/VizZzSaRa/LC/tree/master/3042-count-prefix-and-suffix-pairs-i) |
+## Hash Function
+|  |
+| ------- |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/VizZzSaRa/LC/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 <!---LeetCode Topics End-->
