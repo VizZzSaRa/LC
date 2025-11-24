@@ -213,6 +213,7 @@ LeetCode Problems and their Solutions
 | [2881-split-strings-by-separator](https://github.com/VizZzSaRa/LC/tree/master/2881-split-strings-by-separator) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/VizZzSaRa/LC/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/VizZzSaRa/LC/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
+| [3285-find-indices-of-stable-mountains](https://github.com/VizZzSaRa/LC/tree/master/3285-find-indices-of-stable-mountains) |
 | [3321-type-of-triangle](https://github.com/VizZzSaRa/LC/tree/master/3321-type-of-triangle) |
 | [3330-modify-the-matrix](https://github.com/VizZzSaRa/LC/tree/master/3330-modify-the-matrix) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/VizZzSaRa/LC/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
