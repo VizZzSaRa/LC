@@ -18,6 +18,7 @@ LeetCode Problems and their Solutions
 | [2722-prime-in-diagonal](https://github.com/VizZzSaRa/LC/tree/master/2722-prime-in-diagonal) |
 | [2824-check-if-the-number-is-fascinating](https://github.com/VizZzSaRa/LC/tree/master/2824-check-if-the-number-is-fascinating) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/VizZzSaRa/LC/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+| [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/VizZzSaRa/LC/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/VizZzSaRa/LC/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3321-type-of-triangle](https://github.com/VizZzSaRa/LC/tree/master/3321-type-of-triangle) |
 | [3371-harshad-number](https://github.com/VizZzSaRa/LC/tree/master/3371-harshad-number) |
@@ -92,6 +93,7 @@ LeetCode Problems and their Solutions
 | [2887-sort-vowels-in-a-string](https://github.com/VizZzSaRa/LC/tree/master/2887-sort-vowels-in-a-string) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/VizZzSaRa/LC/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/VizZzSaRa/LC/tree/master/3042-count-prefix-and-suffix-pairs-i) |
+| [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/VizZzSaRa/LC/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3353-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/VizZzSaRa/LC/tree/master/3353-existence-of-a-substring-in-a-string-and-its-reverse) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/VizZzSaRa/LC/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3447-clear-digits](https://github.com/VizZzSaRa/LC/tree/master/3447-clear-digits) |
