@@ -37,6 +37,7 @@ LeetCode Problems and their Solutions
 | [0476-number-complement](https://github.com/VizZzSaRa/LC/tree/master/0476-number-complement) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/VizZzSaRa/LC/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [0861-flipping-an-image](https://github.com/VizZzSaRa/LC/tree/master/0861-flipping-an-image) |
+| [1720-decode-xored-array](https://github.com/VizZzSaRa/LC/tree/master/1720-decode-xored-array) |
 | [2427-first-letter-to-appear-twice](https://github.com/VizZzSaRa/LC/tree/master/2427-first-letter-to-appear-twice) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/VizZzSaRa/LC/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/VizZzSaRa/LC/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
@@ -198,6 +199,7 @@ LeetCode Problems and their Solutions
 | [1560-number-of-students-doing-homework-at-a-given-time](https://github.com/VizZzSaRa/LC/tree/master/1560-number-of-students-doing-homework-at-a-given-time) |
 | [1580-shuffle-the-array](https://github.com/VizZzSaRa/LC/tree/master/1580-shuffle-the-array) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/VizZzSaRa/LC/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
+| [1720-decode-xored-array](https://github.com/VizZzSaRa/LC/tree/master/1720-decode-xored-array) |
 | [1751-slowest-key](https://github.com/VizZzSaRa/LC/tree/master/1751-slowest-key) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/VizZzSaRa/LC/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2057-smallest-index-with-equal-value](https://github.com/VizZzSaRa/LC/tree/master/2057-smallest-index-with-equal-value) |
