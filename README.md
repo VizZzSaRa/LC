@@ -18,6 +18,7 @@ LeetCode Problems and their Solutions
 | [2722-prime-in-diagonal](https://github.com/VizZzSaRa/LC/tree/master/2722-prime-in-diagonal) |
 | [2824-check-if-the-number-is-fascinating](https://github.com/VizZzSaRa/LC/tree/master/2824-check-if-the-number-is-fascinating) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/VizZzSaRa/LC/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/VizZzSaRa/LC/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3321-type-of-triangle](https://github.com/VizZzSaRa/LC/tree/master/3321-type-of-triangle) |
 | [3371-harshad-number](https://github.com/VizZzSaRa/LC/tree/master/3371-harshad-number) |
 | [3567-convert-date-to-binary](https://github.com/VizZzSaRa/LC/tree/master/3567-convert-date-to-binary) |
@@ -229,6 +230,7 @@ LeetCode Problems and their Solutions
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/VizZzSaRa/LC/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/VizZzSaRa/LC/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3285-find-indices-of-stable-mountains](https://github.com/VizZzSaRa/LC/tree/master/3285-find-indices-of-stable-mountains) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/VizZzSaRa/LC/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3321-type-of-triangle](https://github.com/VizZzSaRa/LC/tree/master/3321-type-of-triangle) |
 | [3330-modify-the-matrix](https://github.com/VizZzSaRa/LC/tree/master/3330-modify-the-matrix) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/VizZzSaRa/LC/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
