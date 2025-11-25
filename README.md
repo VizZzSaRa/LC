@@ -67,6 +67,7 @@ LeetCode Problems and their Solutions
 | [1970-sorting-the-sentence](https://github.com/VizZzSaRa/LC/tree/master/1970-sorting-the-sentence) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/VizZzSaRa/LC/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2010-check-if-word-equals-summation-of-two-words](https://github.com/VizZzSaRa/LC/tree/master/2010-check-if-word-equals-summation-of-two-words) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/VizZzSaRa/LC/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/VizZzSaRa/LC/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/VizZzSaRa/LC/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/VizZzSaRa/LC/tree/master/2093-check-if-string-is-a-prefix-of-array) |
@@ -198,6 +199,7 @@ LeetCode Problems and their Solutions
 | [1580-shuffle-the-array](https://github.com/VizZzSaRa/LC/tree/master/1580-shuffle-the-array) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/VizZzSaRa/LC/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1751-slowest-key](https://github.com/VizZzSaRa/LC/tree/master/1751-slowest-key) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/VizZzSaRa/LC/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2057-smallest-index-with-equal-value](https://github.com/VizZzSaRa/LC/tree/master/2057-smallest-index-with-equal-value) |
 | [2058-concatenation-of-array](https://github.com/VizZzSaRa/LC/tree/master/2058-concatenation-of-array) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/VizZzSaRa/LC/tree/master/2093-check-if-string-is-a-prefix-of-array) |
@@ -299,6 +301,7 @@ LeetCode Problems and their Solutions
 |  |
 | ------- |
 | [0861-flipping-an-image](https://github.com/VizZzSaRa/LC/tree/master/0861-flipping-an-image) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/VizZzSaRa/LC/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2058-concatenation-of-array](https://github.com/VizZzSaRa/LC/tree/master/2058-concatenation-of-array) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/VizZzSaRa/LC/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/VizZzSaRa/LC/tree/master/2132-convert-1d-array-into-2d-array) |
