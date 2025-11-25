@@ -13,6 +13,7 @@ LeetCode Problems and their Solutions
 | [0231-power-of-two](https://github.com/VizZzSaRa/LC/tree/master/0231-power-of-two) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/VizZzSaRa/LC/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [2288-count-operations-to-obtain-zero](https://github.com/VizZzSaRa/LC/tree/master/2288-count-operations-to-obtain-zero) |
+| [2544-alternating-digit-sum](https://github.com/VizZzSaRa/LC/tree/master/2544-alternating-digit-sum) |
 | [2571-find-the-pivot-integer](https://github.com/VizZzSaRa/LC/tree/master/2571-find-the-pivot-integer) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/VizZzSaRa/LC/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2722-prime-in-diagonal](https://github.com/VizZzSaRa/LC/tree/master/2722-prime-in-diagonal) |
