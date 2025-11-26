@@ -2,7 +2,7 @@ class Solution {
     public int countSymmetricIntegers(int low, int high) {
         int c=0;
         for(int i=low;i<=high;i++){
-            if(isC(Integer.toString(i)) && Integer.toString(i).length()%2==0){
+            if( Integer.toString(i).length()%2==0 && isC(Integer.toString(i))){
                 c++;
             }
         }
