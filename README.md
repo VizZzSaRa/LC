@@ -200,6 +200,7 @@ LeetCode Problems and their Solutions
 | [1256-rank-transform-of-an-array](https://github.com/VizZzSaRa/LC/tree/master/1256-rank-transform-of-an-array) |
 | [1293-three-consecutive-odds](https://github.com/VizZzSaRa/LC/tree/master/1293-three-consecutive-odds) |
 | [1319-unique-number-of-occurrences](https://github.com/VizZzSaRa/LC/tree/master/1319-unique-number-of-occurrences) |
+| [1380-lucky-numbers-in-a-matrix](https://github.com/VizZzSaRa/LC/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/VizZzSaRa/LC/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/VizZzSaRa/LC/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1560-number-of-students-doing-homework-at-a-given-time](https://github.com/VizZzSaRa/LC/tree/master/1560-number-of-students-doing-homework-at-a-given-time) |
@@ -358,6 +359,7 @@ LeetCode Problems and their Solutions
 |  |
 | ------- |
 | [0861-flipping-an-image](https://github.com/VizZzSaRa/LC/tree/master/0861-flipping-an-image) |
+| [1380-lucky-numbers-in-a-matrix](https://github.com/VizZzSaRa/LC/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/VizZzSaRa/LC/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/VizZzSaRa/LC/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2722-prime-in-diagonal](https://github.com/VizZzSaRa/LC/tree/master/2722-prime-in-diagonal) |
