@@ -12,6 +12,7 @@ LeetCode Problems and their Solutions
 | [0202-happy-number](https://github.com/VizZzSaRa/LC/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/VizZzSaRa/LC/tree/master/0231-power-of-two) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/VizZzSaRa/LC/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
+| [2180-count-integers-with-even-digit-sum](https://github.com/VizZzSaRa/LC/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2288-count-operations-to-obtain-zero](https://github.com/VizZzSaRa/LC/tree/master/2288-count-operations-to-obtain-zero) |
 | [2544-alternating-digit-sum](https://github.com/VizZzSaRa/LC/tree/master/2544-alternating-digit-sum) |
 | [2571-find-the-pivot-integer](https://github.com/VizZzSaRa/LC/tree/master/2571-find-the-pivot-integer) |
@@ -316,6 +317,7 @@ LeetCode Problems and their Solutions
 | [2058-concatenation-of-array](https://github.com/VizZzSaRa/LC/tree/master/2058-concatenation-of-array) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/VizZzSaRa/LC/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/VizZzSaRa/LC/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2180-count-integers-with-even-digit-sum](https://github.com/VizZzSaRa/LC/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/VizZzSaRa/LC/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2288-count-operations-to-obtain-zero](https://github.com/VizZzSaRa/LC/tree/master/2288-count-operations-to-obtain-zero) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/VizZzSaRa/LC/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
