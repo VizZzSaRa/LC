@@ -19,6 +19,7 @@ LeetCode Problems and their Solutions
 | [2652-sum-multiples](https://github.com/VizZzSaRa/LC/tree/master/2652-sum-multiples) |
 | [2722-prime-in-diagonal](https://github.com/VizZzSaRa/LC/tree/master/2722-prime-in-diagonal) |
 | [2824-check-if-the-number-is-fascinating](https://github.com/VizZzSaRa/LC/tree/master/2824-check-if-the-number-is-fascinating) |
+| [2843-count-symmetric-integers](https://github.com/VizZzSaRa/LC/tree/master/2843-count-symmetric-integers) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/VizZzSaRa/LC/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/VizZzSaRa/LC/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/VizZzSaRa/LC/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -400,4 +401,8 @@ LeetCode Problems and their Solutions
 |  |
 | ------- |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/VizZzSaRa/LC/tree/master/3042-count-prefix-and-suffix-pairs-i) |
+## Enumeration
+|  |
+| ------- |
+| [2843-count-symmetric-integers](https://github.com/VizZzSaRa/LC/tree/master/2843-count-symmetric-integers) |
 <!---LeetCode Topics End-->
