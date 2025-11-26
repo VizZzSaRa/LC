@@ -63,6 +63,7 @@ LeetCode Problems and their Solutions
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/VizZzSaRa/LC/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1156-occurrences-after-bigram](https://github.com/VizZzSaRa/LC/tree/master/1156-occurrences-after-bigram) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/VizZzSaRa/LC/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1422-maximum-score-after-splitting-a-string](https://github.com/VizZzSaRa/LC/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/VizZzSaRa/LC/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1751-slowest-key](https://github.com/VizZzSaRa/LC/tree/master/1751-slowest-key) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/VizZzSaRa/LC/tree/master/1823-determine-if-string-halves-are-alike) |
@@ -390,6 +391,7 @@ LeetCode Problems and their Solutions
 ## Prefix Sum
 |  |
 | ------- |
+| [1422-maximum-score-after-splitting-a-string](https://github.com/VizZzSaRa/LC/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [2571-find-the-pivot-integer](https://github.com/VizZzSaRa/LC/tree/master/2571-find-the-pivot-integer) |
 ## Trie
 |  |
