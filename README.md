@@ -246,6 +246,7 @@ LeetCode Problems and their Solutions
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/VizZzSaRa/LC/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/VizZzSaRa/LC/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/VizZzSaRa/LC/tree/master/3042-count-prefix-and-suffix-pairs-i) |
+| [3074-apple-redistribution-into-boxes](https://github.com/VizZzSaRa/LC/tree/master/3074-apple-redistribution-into-boxes) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/VizZzSaRa/LC/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/VizZzSaRa/LC/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3248-snake-in-matrix](https://github.com/VizZzSaRa/LC/tree/master/3248-snake-in-matrix) |
@@ -325,6 +326,7 @@ LeetCode Problems and their Solutions
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/VizZzSaRa/LC/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2887-sort-vowels-in-a-string](https://github.com/VizZzSaRa/LC/tree/master/2887-sort-vowels-in-a-string) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/VizZzSaRa/LC/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3074-apple-redistribution-into-boxes](https://github.com/VizZzSaRa/LC/tree/master/3074-apple-redistribution-into-boxes) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/VizZzSaRa/LC/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3321-type-of-triangle](https://github.com/VizZzSaRa/LC/tree/master/3321-type-of-triangle) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/VizZzSaRa/LC/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
@@ -409,6 +411,7 @@ LeetCode Problems and their Solutions
 | ------- |
 | [0011-container-with-most-water](https://github.com/VizZzSaRa/LC/tree/master/0011-container-with-most-water) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/VizZzSaRa/LC/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [3074-apple-redistribution-into-boxes](https://github.com/VizZzSaRa/LC/tree/master/3074-apple-redistribution-into-boxes) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/VizZzSaRa/LC/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 ## Sliding Window
 |  |
