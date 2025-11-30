@@ -244,6 +244,7 @@ LeetCode Problems and their Solutions
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/VizZzSaRa/LC/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [2881-split-strings-by-separator](https://github.com/VizZzSaRa/LC/tree/master/2881-split-strings-by-separator) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/VizZzSaRa/LC/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [2974-minimum-number-game](https://github.com/VizZzSaRa/LC/tree/master/2974-minimum-number-game) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/VizZzSaRa/LC/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/VizZzSaRa/LC/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/VizZzSaRa/LC/tree/master/3074-apple-redistribution-into-boxes) |
@@ -326,6 +327,7 @@ LeetCode Problems and their Solutions
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/VizZzSaRa/LC/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2887-sort-vowels-in-a-string](https://github.com/VizZzSaRa/LC/tree/master/2887-sort-vowels-in-a-string) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/VizZzSaRa/LC/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [2974-minimum-number-game](https://github.com/VizZzSaRa/LC/tree/master/2974-minimum-number-game) |
 | [3074-apple-redistribution-into-boxes](https://github.com/VizZzSaRa/LC/tree/master/3074-apple-redistribution-into-boxes) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/VizZzSaRa/LC/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3321-type-of-triangle](https://github.com/VizZzSaRa/LC/tree/master/3321-type-of-triangle) |
@@ -348,6 +350,7 @@ LeetCode Problems and their Solutions
 | [2698-find-the-array-concatenation-value](https://github.com/VizZzSaRa/LC/tree/master/2698-find-the-array-concatenation-value) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/VizZzSaRa/LC/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2886-faulty-keyboard](https://github.com/VizZzSaRa/LC/tree/master/2886-faulty-keyboard) |
+| [2974-minimum-number-game](https://github.com/VizZzSaRa/LC/tree/master/2974-minimum-number-game) |
 | [3248-snake-in-matrix](https://github.com/VizZzSaRa/LC/tree/master/3248-snake-in-matrix) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/VizZzSaRa/LC/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3447-clear-digits](https://github.com/VizZzSaRa/LC/tree/master/3447-clear-digits) |
@@ -401,6 +404,7 @@ LeetCode Problems and their Solutions
 | ------- |
 | [0506-relative-ranks](https://github.com/VizZzSaRa/LC/tree/master/0506-relative-ranks) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/VizZzSaRa/LC/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [2974-minimum-number-game](https://github.com/VizZzSaRa/LC/tree/master/2974-minimum-number-game) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/VizZzSaRa/LC/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## Monotonic Stack
 |  |
