@@ -248,6 +248,7 @@ LeetCode Problems and their Solutions
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/VizZzSaRa/LC/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3321-type-of-triangle](https://github.com/VizZzSaRa/LC/tree/master/3321-type-of-triangle) |
 | [3330-modify-the-matrix](https://github.com/VizZzSaRa/LC/tree/master/3330-modify-the-matrix) |
+| [3392-count-subarrays-of-length-three-with-a-condition](https://github.com/VizZzSaRa/LC/tree/master/3392-count-subarrays-of-length-three-with-a-condition) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/VizZzSaRa/LC/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/VizZzSaRa/LC/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/VizZzSaRa/LC/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
