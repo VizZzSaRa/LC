@@ -15,7 +15,6 @@ class Solution {
                 min=i;
             }
         }
-        System.out.println(Arrays.toString(nums));
         if(c==1)return min;
         return -1;
     }
