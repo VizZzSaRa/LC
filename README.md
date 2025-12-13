@@ -35,6 +35,7 @@ LeetCode Problems and their Solutions
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/VizZzSaRa/LC/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3697-compute-decimal-representation](https://github.com/VizZzSaRa/LC/tree/master/3697-compute-decimal-representation) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/VizZzSaRa/LC/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/VizZzSaRa/LC/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/VizZzSaRa/LC/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3859-maximum-product-of-two-digits](https://github.com/VizZzSaRa/LC/tree/master/3859-maximum-product-of-two-digits) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/VizZzSaRa/LC/tree/master/3914-check-if-any-element-has-prime-frequency) |
