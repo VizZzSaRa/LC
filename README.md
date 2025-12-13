@@ -240,6 +240,7 @@ LeetCode Problems and their Solutions
 | [2698-find-the-array-concatenation-value](https://github.com/VizZzSaRa/LC/tree/master/2698-find-the-array-concatenation-value) |
 | [2722-prime-in-diagonal](https://github.com/VizZzSaRa/LC/tree/master/2722-prime-in-diagonal) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/VizZzSaRa/LC/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/VizZzSaRa/LC/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/VizZzSaRa/LC/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/VizZzSaRa/LC/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [2881-split-strings-by-separator](https://github.com/VizZzSaRa/LC/tree/master/2881-split-strings-by-separator) |
@@ -442,5 +443,6 @@ LeetCode Problems and their Solutions
 ## Enumeration
 |  |
 | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/VizZzSaRa/LC/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2843-count-symmetric-integers](https://github.com/VizZzSaRa/LC/tree/master/2843-count-symmetric-integers) |
 <!---LeetCode Topics End-->
