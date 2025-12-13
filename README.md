@@ -26,6 +26,7 @@ LeetCode Problems and their Solutions
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/VizZzSaRa/LC/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/VizZzSaRa/LC/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3321-type-of-triangle](https://github.com/VizZzSaRa/LC/tree/master/3321-type-of-triangle) |
+| [3370-smallest-number-with-all-set-bits](https://github.com/VizZzSaRa/LC/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3371-harshad-number](https://github.com/VizZzSaRa/LC/tree/master/3371-harshad-number) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/VizZzSaRa/LC/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/VizZzSaRa/LC/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -52,6 +53,7 @@ LeetCode Problems and their Solutions
 | [2427-first-letter-to-appear-twice](https://github.com/VizZzSaRa/LC/tree/master/2427-first-letter-to-appear-twice) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/VizZzSaRa/LC/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/VizZzSaRa/LC/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
+| [3370-smallest-number-with-all-set-bits](https://github.com/VizZzSaRa/LC/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/VizZzSaRa/LC/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 ## String
 |  |
