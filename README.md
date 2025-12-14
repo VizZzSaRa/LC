@@ -85,6 +85,7 @@ LeetCode Problems and their Solutions
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/VizZzSaRa/LC/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2010-check-if-word-equals-summation-of-two-words](https://github.com/VizZzSaRa/LC/tree/master/2010-check-if-word-equals-summation-of-two-words) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/VizZzSaRa/LC/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/VizZzSaRa/LC/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/VizZzSaRa/LC/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/VizZzSaRa/LC/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/VizZzSaRa/LC/tree/master/2093-check-if-string-is-a-prefix-of-array) |
