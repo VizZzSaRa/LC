@@ -109,6 +109,7 @@ LeetCode Problems and their Solutions
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/VizZzSaRa/LC/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/VizZzSaRa/LC/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3248-snake-in-matrix](https://github.com/VizZzSaRa/LC/tree/master/3248-snake-in-matrix) |
+| [3271-hash-divided-string](https://github.com/VizZzSaRa/LC/tree/master/3271-hash-divided-string) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/VizZzSaRa/LC/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3353-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/VizZzSaRa/LC/tree/master/3353-existence-of-a-substring-in-a-string-and-its-reverse) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/VizZzSaRa/LC/tree/master/3408-count-the-number-of-special-characters-i) |
@@ -358,6 +359,7 @@ LeetCode Problems and their Solutions
 | [2974-minimum-number-game](https://github.com/VizZzSaRa/LC/tree/master/2974-minimum-number-game) |
 | [3248-snake-in-matrix](https://github.com/VizZzSaRa/LC/tree/master/3248-snake-in-matrix) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/VizZzSaRa/LC/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
+| [3271-hash-divided-string](https://github.com/VizZzSaRa/LC/tree/master/3271-hash-divided-string) |
 | [3447-clear-digits](https://github.com/VizZzSaRa/LC/tree/master/3447-clear-digits) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/VizZzSaRa/LC/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3701-compute-alternating-sum](https://github.com/VizZzSaRa/LC/tree/master/3701-compute-alternating-sum) |
