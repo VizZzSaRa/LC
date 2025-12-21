@@ -68,6 +68,7 @@ LeetCode Problems and their Solutions
 | [0599-minimum-index-sum-of-two-lists](https://github.com/VizZzSaRa/LC/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0822-unique-morse-code-words](https://github.com/VizZzSaRa/LC/tree/master/0822-unique-morse-code-words) |
 | [0851-goat-latin](https://github.com/VizZzSaRa/LC/tree/master/0851-goat-latin) |
+| [0944-delete-columns-to-make-sorted](https://github.com/VizZzSaRa/LC/tree/master/0944-delete-columns-to-make-sorted) |
 | [1044-find-common-characters](https://github.com/VizZzSaRa/LC/tree/master/1044-find-common-characters) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/VizZzSaRa/LC/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1156-occurrences-after-bigram](https://github.com/VizZzSaRa/LC/tree/master/1156-occurrences-after-bigram) |
@@ -209,6 +210,7 @@ LeetCode Problems and their Solutions
 | [0792-binary-search](https://github.com/VizZzSaRa/LC/tree/master/0792-binary-search) |
 | [0822-unique-morse-code-words](https://github.com/VizZzSaRa/LC/tree/master/0822-unique-morse-code-words) |
 | [0861-flipping-an-image](https://github.com/VizZzSaRa/LC/tree/master/0861-flipping-an-image) |
+| [0944-delete-columns-to-make-sorted](https://github.com/VizZzSaRa/LC/tree/master/0944-delete-columns-to-make-sorted) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/VizZzSaRa/LC/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1044-find-common-characters](https://github.com/VizZzSaRa/LC/tree/master/1044-find-common-characters) |
 | [1217-relative-sort-array](https://github.com/VizZzSaRa/LC/tree/master/1217-relative-sort-array) |
