@@ -12,6 +12,7 @@ LeetCode Problems and their Solutions
 | [0202-happy-number](https://github.com/VizZzSaRa/LC/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/VizZzSaRa/LC/tree/master/0231-power-of-two) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/VizZzSaRa/LC/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
+| [1812-determine-color-of-a-chessboard-square](https://github.com/VizZzSaRa/LC/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/VizZzSaRa/LC/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2288-count-operations-to-obtain-zero](https://github.com/VizZzSaRa/LC/tree/master/2288-count-operations-to-obtain-zero) |
 | [2544-alternating-digit-sum](https://github.com/VizZzSaRa/LC/tree/master/2544-alternating-digit-sum) |
@@ -78,6 +79,7 @@ LeetCode Problems and their Solutions
 | [1422-maximum-score-after-splitting-a-string](https://github.com/VizZzSaRa/LC/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/VizZzSaRa/LC/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1751-slowest-key](https://github.com/VizZzSaRa/LC/tree/master/1751-slowest-key) |
+| [1812-determine-color-of-a-chessboard-square](https://github.com/VizZzSaRa/LC/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/VizZzSaRa/LC/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1904-second-largest-digit-in-a-string](https://github.com/VizZzSaRa/LC/tree/master/1904-second-largest-digit-in-a-string) |
 | [1933-number-of-different-integers-in-a-string](https://github.com/VizZzSaRa/LC/tree/master/1933-number-of-different-integers-in-a-string) |
