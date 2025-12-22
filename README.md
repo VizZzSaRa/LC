@@ -72,6 +72,7 @@ LeetCode Problems and their Solutions
 | [1044-find-common-characters](https://github.com/VizZzSaRa/LC/tree/master/1044-find-common-characters) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/VizZzSaRa/LC/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1156-occurrences-after-bigram](https://github.com/VizZzSaRa/LC/tree/master/1156-occurrences-after-bigram) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/VizZzSaRa/LC/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/VizZzSaRa/LC/tree/master/1189-maximum-number-of-balloons) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/VizZzSaRa/LC/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/VizZzSaRa/LC/tree/master/1422-maximum-score-after-splitting-a-string) |
@@ -164,6 +165,7 @@ LeetCode Problems and their Solutions
 | [0822-unique-morse-code-words](https://github.com/VizZzSaRa/LC/tree/master/0822-unique-morse-code-words) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/VizZzSaRa/LC/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1044-find-common-characters](https://github.com/VizZzSaRa/LC/tree/master/1044-find-common-characters) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/VizZzSaRa/LC/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/VizZzSaRa/LC/tree/master/1189-maximum-number-of-balloons) |
 | [1217-relative-sort-array](https://github.com/VizZzSaRa/LC/tree/master/1217-relative-sort-array) |
 | [1256-rank-transform-of-an-array](https://github.com/VizZzSaRa/LC/tree/master/1256-rank-transform-of-an-array) |
@@ -213,6 +215,7 @@ LeetCode Problems and their Solutions
 | [0944-delete-columns-to-make-sorted](https://github.com/VizZzSaRa/LC/tree/master/0944-delete-columns-to-make-sorted) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/VizZzSaRa/LC/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1044-find-common-characters](https://github.com/VizZzSaRa/LC/tree/master/1044-find-common-characters) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/VizZzSaRa/LC/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1217-relative-sort-array](https://github.com/VizZzSaRa/LC/tree/master/1217-relative-sort-array) |
 | [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/VizZzSaRa/LC/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
 | [1256-rank-transform-of-an-array](https://github.com/VizZzSaRa/LC/tree/master/1256-rank-transform-of-an-array) |
@@ -300,6 +303,7 @@ LeetCode Problems and their Solutions
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/VizZzSaRa/LC/tree/master/0387-first-unique-character-in-a-string) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/VizZzSaRa/LC/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/VizZzSaRa/LC/tree/master/1189-maximum-number-of-balloons) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/VizZzSaRa/LC/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/VizZzSaRa/LC/tree/master/1823-determine-if-string-halves-are-alike) |
