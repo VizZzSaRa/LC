@@ -77,6 +77,7 @@ LeetCode Problems and their Solutions
 | [1189-maximum-number-of-balloons](https://github.com/VizZzSaRa/LC/tree/master/1189-maximum-number-of-balloons) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/VizZzSaRa/LC/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/VizZzSaRa/LC/tree/master/1422-maximum-score-after-splitting-a-string) |
+| [1556-thousand-separator](https://github.com/VizZzSaRa/LC/tree/master/1556-thousand-separator) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/VizZzSaRa/LC/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1751-slowest-key](https://github.com/VizZzSaRa/LC/tree/master/1751-slowest-key) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/VizZzSaRa/LC/tree/master/1812-determine-color-of-a-chessboard-square) |
