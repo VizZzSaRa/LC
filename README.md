@@ -107,6 +107,7 @@ LeetCode Problems and their Solutions
 | [2427-first-letter-to-appear-twice](https://github.com/VizZzSaRa/LC/tree/master/2427-first-letter-to-appear-twice) |
 | [2502-sort-the-people](https://github.com/VizZzSaRa/LC/tree/master/2502-sort-the-people) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/VizZzSaRa/LC/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/VizZzSaRa/LC/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/VizZzSaRa/LC/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2825-minimize-string-length](https://github.com/VizZzSaRa/LC/tree/master/2825-minimize-string-length) |
 | [2881-split-strings-by-separator](https://github.com/VizZzSaRa/LC/tree/master/2881-split-strings-by-separator) |
@@ -363,6 +364,7 @@ LeetCode Problems and their Solutions
 | [2288-count-operations-to-obtain-zero](https://github.com/VizZzSaRa/LC/tree/master/2288-count-operations-to-obtain-zero) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/VizZzSaRa/LC/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2639-separate-the-digits-in-an-array](https://github.com/VizZzSaRa/LC/tree/master/2639-separate-the-digits-in-an-array) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/VizZzSaRa/LC/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [2698-find-the-array-concatenation-value](https://github.com/VizZzSaRa/LC/tree/master/2698-find-the-array-concatenation-value) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/VizZzSaRa/LC/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2886-faulty-keyboard](https://github.com/VizZzSaRa/LC/tree/master/2886-faulty-keyboard) |
@@ -402,6 +404,7 @@ LeetCode Problems and their Solutions
 | [0496-next-greater-element-i](https://github.com/VizZzSaRa/LC/tree/master/0496-next-greater-element-i) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/VizZzSaRa/LC/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [2128-reverse-prefix-of-word](https://github.com/VizZzSaRa/LC/tree/master/2128-reverse-prefix-of-word) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/VizZzSaRa/LC/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3447-clear-digits](https://github.com/VizZzSaRa/LC/tree/master/3447-clear-digits) |
 ## Matrix
 |  |
