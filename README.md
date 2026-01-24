@@ -137,6 +137,7 @@ LeetCode Problems and their Solutions
 | [0345-reverse-vowels-of-a-string](https://github.com/VizZzSaRa/LC/tree/master/0345-reverse-vowels-of-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/VizZzSaRa/LC/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0861-flipping-an-image](https://github.com/VizZzSaRa/LC/tree/master/0861-flipping-an-image) |
+| [1089-duplicate-zeros](https://github.com/VizZzSaRa/LC/tree/master/1089-duplicate-zeros) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/VizZzSaRa/LC/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/VizZzSaRa/LC/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/VizZzSaRa/LC/tree/master/2093-check-if-string-is-a-prefix-of-array) |
@@ -220,6 +221,7 @@ LeetCode Problems and their Solutions
 | [0944-delete-columns-to-make-sorted](https://github.com/VizZzSaRa/LC/tree/master/0944-delete-columns-to-make-sorted) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/VizZzSaRa/LC/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1044-find-common-characters](https://github.com/VizZzSaRa/LC/tree/master/1044-find-common-characters) |
+| [1089-duplicate-zeros](https://github.com/VizZzSaRa/LC/tree/master/1089-duplicate-zeros) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/VizZzSaRa/LC/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1217-relative-sort-array](https://github.com/VizZzSaRa/LC/tree/master/1217-relative-sort-array) |
 | [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/VizZzSaRa/LC/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
