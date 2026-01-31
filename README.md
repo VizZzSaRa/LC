@@ -50,6 +50,7 @@ LeetCode Problems and their Solutions
 | [0476-number-complement](https://github.com/VizZzSaRa/LC/tree/master/0476-number-complement) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/VizZzSaRa/LC/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [0861-flipping-an-image](https://github.com/VizZzSaRa/LC/tree/master/0861-flipping-an-image) |
+| [1009-complement-of-base-10-integer](https://github.com/VizZzSaRa/LC/tree/master/1009-complement-of-base-10-integer) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/VizZzSaRa/LC/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1720-decode-xored-array](https://github.com/VizZzSaRa/LC/tree/master/1720-decode-xored-array) |
 | [2427-first-letter-to-appear-twice](https://github.com/VizZzSaRa/LC/tree/master/2427-first-letter-to-appear-twice) |
